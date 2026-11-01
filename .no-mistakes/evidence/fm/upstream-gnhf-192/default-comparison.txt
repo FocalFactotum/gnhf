@@ -1,0 +1,2 @@
+63x60: complete real Renderer terminal output byte-identical to base commit (fixed clock and star seed).
+80x60: complete real Renderer terminal output byte-identical to base commit (fixed clock and star seed).

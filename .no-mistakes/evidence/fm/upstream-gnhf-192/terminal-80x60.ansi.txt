@@ -1,0 +1,60 @@
+[22;0t]2;gnhf 🌑 · 0 total · 0 in · 0 out · 65 commits[H      [1m·[0m  [1m✧[0m [1m⋆[0m                                                     [1m°[0m              
+                          [1m·[0m                                     [2m·[0m               
+                                       [1m°[0m                      [2m·[0m                 
+         [1m·[0m                                                                      
+ [1m⋆[0m                           [2m·[0m            [1m✧[0m     [2m·[0m          [1m°[0m    [1m·[0m               
+        [2m·[0m                                          [1m·[0m                            
+                       [2m·[0m                                                        
+             [1m·[0m  [1m⋆[0m      [1m·[0m                                                        
+                                              [1m·[0m            [1m°[0m                    
+                                                                                
+      [2m·[0m     [2m·[0m [2m·[0m                                                                 
+                     [1m·[0m [2m·[0m    [2m·[0m                                                   
+                                         [2m·[0m    [2m·[0m                                 
+              [2m·[0m                       [2m·[0m                                         
+         [2m·[0m       [2m·[0m                                    [2m·[0m             [2m·[0m           
+           [2m·[0m               [2m·[0m               [2m·[0m                       [2m·[0m            
+                                                       [2m·[0m    [2m·[0m                   
+      [1m·[0m                                                                        
+                            [2mg n h f[0m  [2m·[0m  [2mc l a u d e[0m                            
+                                                                               
+                                                                               
+ [1m⋆[0m          [1m┏━╸┏━┓┏━┓╺┳┓   ┏┓╻╻┏━╸╻ ╻╺┳╸   ╻ ╻┏━┓╻ ╻┏━╸   ┏━╸╻ ╻┏┓╻[0m            
+            [1m┃╺┓┃ ┃┃ ┃ ┃┃   ┃┗┫┃┃╺┓┣━┫ ┃    ┣━┫┣━┫┃┏┛┣╸    ┣╸ ┃ ┃┃┗┫[0m            
+            [1m┗━┛┗━┛┗━┛╺┻┛   ╹ ╹╹┗━┛╹ ╹ ╹    ╹ ╹╹ ╹┗┛ ┗━╸   ╹  ┗━┛╹ ╹[0m            
+                                                                               
+        [2mImplement the requested feature and preserve existing behavior.[0m        
+        [2mImplement the requested feature and preserve existing behavior.[0m        
+      [1m°[0m [2mImplement the requested feature and preserve existing behavior…[0m        
+                                                                               
+                                                                               
+                [1m00:01:00[0m [2m·[0m 0 total [2m·[0m 0 in [2m·[0m 0 out [2m·[0m 65 commits                 
+                                                                               
+                                                                               
+                                  [2mworking...[0m                                   
+                                                                               
+                                                                               
+[1m·[0m                                                                              
+                                                                               
+         🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕  [1m·[0m     [1m⋆°[0m
+         🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕          
+                                 🌕🌕🌕🌕🌕🌑                                  
+      [2m·[0m  [2m·[0m [2m·[0m                                                     [2m·[0m              
+                          [2m·[0m                                     [2m·[0m               
+                                       [2m·[0m                      [2m·[0m                 
+         [2m·[0m                                                                      
+ [2m·[0m                           [2m·[0m            [2m·[0m     [2m·[0m          [2m·[0m    [2m·[0m               
+        [1m·[0m                                          [2m·[0m                            
+                       [2m·[0m                                                        
+             [2m·[0m  [2m·[0m      [2m·[0m                                                        
+                                              [1m·[0m            [1m°[0m                    
+                                                                                
+      [1m°[0m     [2m·[0m [2m°[0m                                                                 
+                       [1m°[0m    [2m·[0m                                                   
+                                         [1m·[0m    [1m·[0m                                 
+              [1m✧[0m                       [1m⋆[0m                                         
+         [1m⋆[0m       [1m·[0m                                    [1m°[0m             [2m·[0m           
+           [1m⋆[0m               [1m·[0m               [1m·[0m                       [1m·[0m            
+                                                       [1m°[0m    [1m°[0m                   
+                     [2m[ctrl+c to stop, gnhf again to resume][0m                     
+                                                                                ]2;[23;0t

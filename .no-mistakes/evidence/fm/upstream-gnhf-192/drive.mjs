@@ -1,0 +1,10 @@
+import { EventEmitter } from 'node:events';
+import { Renderer } from './renderer.mjs';
+Math.random = () => 0.5;
+const now = 1760000000000;
+Date.now = () => now;
+const feed = new EventEmitter();
+feed.getState = () => ({status:'running', iterations:Array.from({length:65},()=>({success:true})), startTime:new Date(now-60000), totalInputTokens:0,totalOutputTokens:0,commitCount:65,completedIterations:65, currentIteration:66, lastMessage:'', tokensEstimated:false});
+const renderer = new Renderer(feed, 'Implement the requested feature and preserve existing behavior. '.repeat(4), 'claude', ()=>{}, {meteorFrequency:0});
+renderer.start();
+renderer.stop();
